@@ -165,14 +165,10 @@ body{
    display: flex;
    flex-direction: column;
    justify-content: center;
-   
-
-
-
 }
-.cards1:hover{
-    background-color: white;
-    color: black;
+.card1:hover{
+    background-color: black;
+    color: white;
     box-shadow: 2px, 4px, 10px rgb(184, 184, 211);
 }
 .title{
